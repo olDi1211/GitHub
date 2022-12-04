@@ -1,7 +1,4 @@
-Hello World!
-
-How are you?!
-
-Java is cool
-
-Bond007
+Hello Ukraine!
+How are you?
+Java is very cool.
+Bond007.
